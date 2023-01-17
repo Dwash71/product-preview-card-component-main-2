@@ -99,7 +99,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [https://dwash71.github.io/My-Portfolio/]
+- Website - https://dwash71.github.io/My-Portfolio/
 - Frontend Mentor - [@Nique50](https://www.frontendmentor.io/profile/Nique50)
 - Twitter - [@DWash50](https://twitter.com/DWash50)
 
