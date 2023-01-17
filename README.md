@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: ([(https://github.com/Dwash71/product-preview-card-component-main-2/blob/main/images/Screen%20Shot%202023-01-17%20at%2013.09.14.png)]
-- Mobile Solution URL: ([https://github.com/Dwash71/product-preview-card-component-main-2/blob/main/images/Screen%20Shot%202023-01-17%20at%2013.09.28.png])
+- Solution URL: https://github.com/Dwash71/product-preview-card-component-main-2/blob/main/images/Screen%20Shot%202023-01-17%20at%2013.09.14.png
+- Mobile Solution URL: https://github.com/Dwash71/product-preview-card-component-main-2/blob/main/images/Screen%20Shot%202023-01-17%20at%2013.09.28.png
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
